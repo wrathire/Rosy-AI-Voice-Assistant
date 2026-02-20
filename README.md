@@ -11,4 +11,4 @@ Rosy is a Python-based voice assistant featuring a pulsing animated UI. It under
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file with your `OPENAI_API_KEY`.
-4. Run `python main.py`.
+4. Run `python bot.py`.
